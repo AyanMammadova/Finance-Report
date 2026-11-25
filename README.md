@@ -34,7 +34,7 @@ Bu layihədə büdcə üzrə gəlir və mənfəət, xərclər və müştəri mə
 ## Layihə Faylları
 
 - `FinanceReport.pbix` — Power BI hesabatı və məlumat modeli.
-- 
+- 'Finance Expenes Data.xlsx' -Source data
 ## Hesabatı Necə Açmaq Olar?
 
 1. Bu repozitoriyadan `FinanceReport.pbix` faylını yükləyin.
